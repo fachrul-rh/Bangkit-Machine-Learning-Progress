@@ -8,5 +8,5 @@
 - Programming Logic 101 [sertifikat link](https://www.dicoding.com/certificates/ERZR481VWZYV)
 
 ### Online Learning 
-- 01 - Machine Leaning - Python Basic Programming (Dicoding Course) [sertifikat link](https://www.dicoding.com/certificates/EYX47LM45XDL)
+- 01 - Machine Leaning - Python Basic Programming (18 Feb 2022) (Dicoding Course) [sertifikat link](https://www.dicoding.com/certificates/EYX47LM45XDL)
 > Materinya membahas tentang **Dasar Pyhton, Input/Output dan Operasi, Style Guide, Control Flow, Fungsi dan Method, PBO, Unit Testing, Library Populer**
