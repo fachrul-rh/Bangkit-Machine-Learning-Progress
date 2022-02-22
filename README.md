@@ -12,5 +12,4 @@
 > Materinya membahas tentang **Dasar Pyhton, Input/Output dan Operasi, Style Guide, Control Flow, Fungsi dan Method, PBO, Unit Testing, Library Populer**
 
 ### Coursera Google IT Automation with Python
-#### subCourse Crash Course on Python 
-> **Selesai** (21 Februari 2022) 
+- Crash Course on Python **Selesai** (21 Februari 2022) [sertifikat link](https://coursera.org/share/76363e19311e844b09ea646d288d0c75)
