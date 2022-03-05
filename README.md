@@ -13,3 +13,5 @@
 
 ### Coursera Google IT Automation with Python
 - Crash Course on Python **Selesai** (21 Februari 2022) [sertifikat link](https://coursera.org/share/76363e19311e844b09ea646d288d0c75)
+- Using Python to Interact with the Operating System **Selesai** (28 Februari 2022) [sertifikat link](https://coursera.org/share/34aef766e2f7f1fe3d9de6aa102bb752)
+- Introduction to git and Github **Selesai** (03 Maret 2022) [sertifikat link](https://coursera.org/share/4bd8d53eca80c7fbe67ca1583e6ba400)
