@@ -11,7 +11,7 @@
 - 01 - Machine Leaning - Python Basic Programming (18 Feb 2022) (Dicoding Course) [sertifikat link](https://www.dicoding.com/certificates/EYX47LM45XDL)
 > Materinya membahas tentang **Dasar Pyhton, Input/Output dan Operasi, Style Guide, Control Flow, Fungsi dan Method, PBO, Unit Testing, Library Populer**
 
-### Coursera Google IT Automation with Python - Speacialization [sertifikat link](https://coursera.org/share/90fba5301fff8a3b90e98328e8cf51ee)
+### Coursera Google IT Automation with Python - Specialization [sertifikat link](https://coursera.org/share/90fba5301fff8a3b90e98328e8cf51ee)
 - Crash Course on Python **Selesai** (21 Februari 2022) [sertifikat link](https://coursera.org/share/76363e19311e844b09ea646d288d0c75)
 - Using Python to Interact with the Operating System **Selesai** (28 Februari 2022) [sertifikat link](https://coursera.org/share/34aef766e2f7f1fe3d9de6aa102bb752)
 - Introduction to git and Github **Selesai** (03 Maret 2022) [sertifikat link](https://coursera.org/share/4bd8d53eca80c7fbe67ca1583e6ba400)
@@ -19,7 +19,7 @@
 - Configuration Management and the Cloud **Selesai** (11 Maret 2022) [sertifikat link](https://coursera.org/share/fcc168c1e3041d3f32fd92ed7f701b38)
 - Automating Real-World Tasks with Python **Selesai** (13 Maret 2022) [sertifikat link](https://coursera.org/share/abb95cbe4c3124d07268cdde2614915d)
 
-### Cousera Mathematics for Machine Learning - Speacialization [sertifikat link](https://coursera.org/share/998d886ee85903923594a0177587a24a)
+### Cousera Mathematics for Machine Learning - Specialization [sertifikat link](https://coursera.org/share/998d886ee85903923594a0177587a24a)
 - Mathematics for Machine Learning: Linear Algebra **Selesai** (21 Maret 2022) [sertifikat link](https://coursera.org/share/62d80960b7dc82892e8092bf5f075038)
 - Mathematics for Machine Learning: Multivariate Calculus **Selesai** (24 Maret 2022) [sertifikat link](https://coursera.org/share/65aaf6a05713255bb7ab1d51743cd74f)
 - Mathematics for Machine Learning: PCA **Selesai** (25 Maret 2022) [sertifikat link](https://coursera.org/share/cbe96b98953089efaff87f0297cf2088)
