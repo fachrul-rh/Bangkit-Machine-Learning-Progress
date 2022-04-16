@@ -24,5 +24,8 @@
 - Mathematics for Machine Learning: Multivariate Calculus **Selesai** (24 Maret 2022) [sertifikat link](https://coursera.org/share/65aaf6a05713255bb7ab1d51743cd74f)
 - Mathematics for Machine Learning: PCA **Selesai** (25 Maret 2022) [sertifikat link](https://coursera.org/share/cbe96b98953089efaff87f0297cf2088)
 
-### Cousera DeepLearning.AI TensorFlow Developer
+### Cousera DeepLearning.AI TensorFlow Developer - Specialization [sertifikat link](https://coursera.org/share/b9b42bedc6e654ad6dbf9b821fca6869)
 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning **Selesai** (31 Maret 2022) [sertifikat link](https://coursera.org/share/36c452bc42314de577036f1215d1cdc7)
+- Convolutional Neural Networks in TensorFlow **Selesai** (06 April 2022) [sertifikat link](https://coursera.org/share/787154a5c49bf54fd4376f49fd0e658e)
+- Natural Language Processing in TensorFlow **Selesai** (09 April 2022) [sertifikat link](https://coursera.org/share/d57d4d3f1bd2c0beee6856891153855d)
+- Sequences, Time Series and Prediction **Selesai** (11 April 2022) [sertifikat link](https://coursera.org/share/490340fa5a7c430f13c0df1d2042418c)
