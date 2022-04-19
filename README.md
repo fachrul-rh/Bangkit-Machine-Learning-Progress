@@ -29,3 +29,9 @@
 - Convolutional Neural Networks in TensorFlow **Selesai** (06 April 2022) [sertifikat link](https://coursera.org/share/787154a5c49bf54fd4376f49fd0e658e)
 - Natural Language Processing in TensorFlow **Selesai** (09 April 2022) [sertifikat link](https://coursera.org/share/d57d4d3f1bd2c0beee6856891153855d)
 - Sequences, Time Series and Prediction **Selesai** (11 April 2022) [sertifikat link](https://coursera.org/share/490340fa5a7c430f13c0df1d2042418c)
+
+#### Coursera Structuring Machine Learning Projects (Selesai) (16 April 2022) [sertifikat link](https://coursera.org/share/b22c4bc9cc3e5875ac77b8fde9d68cd1)
+
+### Cousera TensorFlow: Data and Deployment
+- Browser-based Models with TensorFlow.js **Selesai** (19 April 2022) [sertifikat link](https://coursera.org/share/0c1119fdac4c2b1207dc4bf216a20913)
+ 
