@@ -34,4 +34,6 @@
 
 ### Cousera TensorFlow: Data and Deployment
 - Browser-based Models with TensorFlow.js **Selesai** (19 April 2022) [sertifikat link](https://coursera.org/share/0c1119fdac4c2b1207dc4bf216a20913)
- 
+- Device-based Models with TensorFlow Lite **Selesai** (24 April 2022) [sertifikat link](https://coursera.org/share/b40f98d23e591b1025f46627e1607578)
+- Data Pipelines with TensorFlow Data Services **Selesai** (27 April 2022) [sertifikat link](https://coursera.org/share/06176b890bc68c74d52e783e8184f580)
+- Advanced Deployment Scenarios with TensorFlow **Selesai** (28 April 2022) [sertifikat link](https://coursera.org/share/74f8d1a502742c79cf03b3a4a0863d59)
